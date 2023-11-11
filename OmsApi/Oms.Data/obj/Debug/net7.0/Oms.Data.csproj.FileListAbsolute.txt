@@ -1,0 +1,17 @@
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\bin\Debug\net7.0\Oms.Data.deps.json
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\bin\Debug\net7.0\Oms.Data.runtimeconfig.json
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\bin\Debug\net7.0\Oms.Data.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\bin\Debug\net7.0\Oms.Data.pdb
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\bin\Debug\net7.0\Oms.Base.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\bin\Debug\net7.0\Oms.Base.pdb
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\Oms.Data.csproj.AssemblyReference.cache
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\Oms.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\Oms.Data.AssemblyInfoInputs.cache
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\Oms.Data.AssemblyInfo.cs
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\Oms.Data.csproj.CoreCompileInputs.cache
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\Oms.Data.csproj.CopyComplete
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\Oms.Data.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\refint\Oms.Data.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\Oms.Data.pdb
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\Oms.Data.genruntimeconfig.cache
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Data\obj\Debug\net7.0\ref\Oms.Data.dll

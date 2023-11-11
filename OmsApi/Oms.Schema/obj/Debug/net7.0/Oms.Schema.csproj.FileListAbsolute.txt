@@ -1,0 +1,11 @@
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\bin\Debug\net7.0\Oms.Schema.deps.json
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\bin\Debug\net7.0\Oms.Schema.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\bin\Debug\net7.0\Oms.Schema.pdb
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\obj\Debug\net7.0\Oms.Schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\obj\Debug\net7.0\Oms.Schema.AssemblyInfoInputs.cache
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\obj\Debug\net7.0\Oms.Schema.AssemblyInfo.cs
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\obj\Debug\net7.0\Oms.Schema.csproj.CoreCompileInputs.cache
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\obj\Debug\net7.0\Oms.Schema.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\obj\Debug\net7.0\refint\Oms.Schema.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\obj\Debug\net7.0\Oms.Schema.pdb
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Schema\obj\Debug\net7.0\ref\Oms.Schema.dll

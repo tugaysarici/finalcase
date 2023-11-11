@@ -1,0 +1,7 @@
+cd Oms.Data -> dotnet ef migrations add Initial -s ../Oms.Api/    -- new migration file generator
+cd sln -> dotnet ef database update --project  "./Oms.Data" --startup-project "./Oms.Api"   -- apply migrations files to database
+
+
+cd Oms.Data -> dotnet ef migrations add SeedData -s ../Oms.Api/
+-- paste datas
+cd sln -> dotnet ef database update --project  "./Oms.Data" --startup-project "./Oms.Api" 

@@ -1,0 +1,12 @@
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\bin\Debug\net7.0\Oms.Base.deps.json
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\bin\Debug\net7.0\Oms.Base.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\bin\Debug\net7.0\Oms.Base.pdb
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\obj\Debug\net7.0\Oms.Base.csproj.AssemblyReference.cache
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\obj\Debug\net7.0\Oms.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\obj\Debug\net7.0\Oms.Base.AssemblyInfoInputs.cache
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\obj\Debug\net7.0\Oms.Base.AssemblyInfo.cs
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\obj\Debug\net7.0\Oms.Base.csproj.CoreCompileInputs.cache
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\obj\Debug\net7.0\Oms.Base.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\obj\Debug\net7.0\refint\Oms.Base.dll
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\obj\Debug\net7.0\Oms.Base.pdb
+C:\Users\TSRC\Desktop\finalcase\OmsApi\Oms.Base\obj\Debug\net7.0\ref\Oms.Base.dll
